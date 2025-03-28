@@ -20,7 +20,7 @@ The data for this project is sourced from the Kaggle dataset:
 
 
 
-## Schema
+# Schema
 
 ```sql
 DROP TABLE IF EXISTS netflix;
@@ -40,3 +40,5 @@ CREATE TABLE netflix
     description  VARCHAR(550)
 );
 ```
+
+# Business Problems and Solutions
